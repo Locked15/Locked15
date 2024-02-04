@@ -11,6 +11,7 @@ But much rarer, you think about how much you already pass.
 ### And In The End
 
 Just remember about the legacy you made.
+
 Who knows: what if this is trump cards, that make you stronger?
 
 <!--
