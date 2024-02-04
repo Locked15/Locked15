@@ -1,6 +1,11 @@
-### Hello there 👋
+# Hello there 👋
 
 Greetings from 2024!
+
+## You Know
+
+Sometimes you may think about how long is left to do.
+But much rarer, you think about how much you already pass.
 
 <!--
 **Locked15/Locked15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
