@@ -5,6 +5,7 @@ Greetings from 2024!
 ## You Know
 
 Sometimes you may think about how long is left to do.
+
 But much rarer, you think about how much you already pass.
 
 <!--
